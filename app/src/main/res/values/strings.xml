@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment2_uyaramontovaneli</string>
+    <string name="title_first_image">Refugees</string>
+    <string name="first_image">Eduardo Kobra (2022)</string>
+    <string name="title_second_image">Anne Frank</string>
+    <string name="second_image">Eduardo Kobra (2023)</string>
+    <string name="title_third_image">CoronaVirus</string>
+    <string name="third_image">Eduardo Kobra (2020)</string>
+</resources>
